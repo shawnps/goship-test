@@ -1,4 +1,4 @@
 goship-test
 ===========
 
-Testing GoShip
+Testing
